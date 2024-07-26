@@ -24,6 +24,21 @@ while x<=55:
     x +=5
     print(x)
 ```
+3. [PROJECT 3](numpy_arrays.ipynb) : This shows how `numpy libraries` were imported for you in the Python environment. The use of different numpy libraries such as **numpy arrays`, `numpy zeros`, `numpy ones`, `numpy arange` and `numpy linspace` were demonstrated.
+
+```
+np.ones((4,5))
+my_list = np.ones((4,5))
+print(my_list)
+```
+```
+np.arange(10,36)
+```
+ ```
+np.linspace(20,50,25)
+my_array = np.linspace(20,50,25)
+print(my_array)
+```
 [Conditional Statement](loops.md)
 ### Don't forget to click on the projects above to see detailed information carried out on them.
 ## I hope you enjoyed yourself here. Watch out for more advance codes on Python. 😄⛅
